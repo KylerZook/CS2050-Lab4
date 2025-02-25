@@ -30,5 +30,6 @@ int getCourseInfo(Course * pCourse, char * outputString);
 int setCourseNumber(Course * pCourse, int number);
 int setCourseDepartment(Course * pCourse, char * department);
 int setCourseName(Course * pCourse, char * name);
+//for testing
 int return_rand_index(int min, int max);
 #endif
